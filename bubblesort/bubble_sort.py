@@ -11,4 +11,6 @@ def bubble_sort(a):
 arr=[9,8,76,5,4]
 print(bubble_sort(arr))
 
+# space and tim complexity = O(n2)
+
 
