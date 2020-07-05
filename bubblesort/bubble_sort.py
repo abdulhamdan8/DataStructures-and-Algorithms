@@ -1,5 +1,7 @@
 # day 1
 # bubble sort
+#  time complexity = O(n2)
+
 def bubble_sort(a):
     for i in range(len(arr)-1):
         for j in range(len(arr)-1-i):
@@ -11,6 +13,5 @@ def bubble_sort(a):
 arr=[9,8,76,5,4]
 print(bubble_sort(arr))
 
-# space and tim complexity = O(n2)
 
 
