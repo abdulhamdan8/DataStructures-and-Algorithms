@@ -11,7 +11,8 @@ def bubble_sort(a):
 
 # driver code
 arr=[9,8,76,5,4]
-print(bubble_sort(arr))
+print("Before sorting",arr)
+print("After Sorting",bubble_sort(arr))
 
 
 
