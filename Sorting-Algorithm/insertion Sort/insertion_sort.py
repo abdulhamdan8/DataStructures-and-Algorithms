@@ -1,5 +1,5 @@
 # day 3
-# merge Sort
+# Insertion Sort
 # time complexity O(n2)
 
 
