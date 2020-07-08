@@ -8,7 +8,7 @@ function bubbleSort(ar) {
                 // [ar[j],ar[j+1]]=[ar[j+1],ar[j]]  -->can use this swapping technique as well
                 temp=ar[j] ;
                 ar[j]=ar[j+1];
-                ar[j+1]=temp
+                ar[j+1]=temp;
 
             }            
         }
