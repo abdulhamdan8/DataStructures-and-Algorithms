@@ -9,5 +9,5 @@ def buyStock(arr):
     print(max_profit)
 
 
-inp = [7,6,4,3,1]
+inp =[7,1,5,3,6,4]
 buyStock(inp)
